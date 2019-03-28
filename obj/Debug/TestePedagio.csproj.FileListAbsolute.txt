@@ -1,0 +1,7 @@
+F:\TestePedagio2\bin\Debug\TestePedagio2.exe.config
+F:\TestePedagio2\bin\Debug\TestePedagio2.exe
+F:\TestePedagio2\bin\Debug\TestePedagio2.pdb
+F:\TestePedagio2\obj\Debug\TestePedagio.csprojAssemblyReference.cache
+F:\TestePedagio2\obj\Debug\TestePedagio.csproj.CoreCompileInputs.cache
+F:\TestePedagio2\obj\Debug\TestePedagio2.exe
+F:\TestePedagio2\obj\Debug\TestePedagio2.pdb
